@@ -87,7 +87,7 @@ a {
 /* HERO BANNER STYLES */
 .hero-banner {
   height: 50%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(/Users/chadd/bootcamp/portfolio-assignment/assets/herobanner1.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../herobanner1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -201,7 +201,7 @@ a {
 
 /* ABOUT ME SECTION STYLES */
 .about-me-container {
-  background-image: url(/Users/chadd/bootcamp/portfolio-assignment/assets/aboutme.jpg);
+  background-image: url(../aboutme.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
